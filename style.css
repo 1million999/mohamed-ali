@@ -230,30 +230,30 @@ p {
     grid-template-columns: repeat(1, 1fr);
   }
 }
-.englishw50 {
-  width: 60%;
+.Arabew100 {
+  width: 100%;
 }
-.russianw90 {
+.Françaisw90 {
   width: 90%;
 }
-.frenchw30 {
-  width: 30%;
+.Anglaisw80 {
+  width: 80%;
 }
-.htmlws30 {
-  width: 50%;
+.Analyse.scientifiquews95 {
+  width: 90%;
 }
-.cssws45 {
-  width: 45%;
+.Communicationws75 {
+  width: 75%;
 }
-.jsws70 {
-  width: 70%;
+.Adaptabilitéws70 {
+  width: 95%;
 }
-.phws40 {
-  width: 40%;
+.Organisationws40 {
+  width: 68%;
 }
-.ilws60 {
-  width: 60%;
+.Pédagogiew60 {
+  width: 100%;
 }
-.adw70 {
+.Gestiondutempsw70 {
   width: 70%;
 }
